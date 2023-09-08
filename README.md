@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/dart-%23000000.svg?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/dart-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=White)
+![](https://img.shields.io/badge/flutter-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=White)
 
 ## Databases
 ![](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
