@@ -3,7 +3,7 @@
 ## Connect with me through:
 [![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge)](mailto:abigailcastro2018@gmail.com) 
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](https://github.com/AbigailCastroFigueroa/AbigailCastroFigueroa/blob/master/Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/abigail-castro-b997b6266/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/abigail-castro-figueroa/)
 
 ## Languages and tools:
 ![](https://img.shields.io/badge/shell_script-%23000000.svg?style=for-the-badge&logoColor=white&logo=gnu-bash)
