@@ -2,7 +2,7 @@
 
 ## Connect with me through:
 [![Email](https://img.shields.io/badge/EMAIL-%23000000?style=for-the-badge)](mailto:abigailcastro2018@gmail.com) 
-[![Resume](https://img.shields.io/badge/RESUME-%23000000?style=for-the-badge)](https://github.com/AbigailCastroFigueroa/AbigailCastroFigueroa/blob/master/Resume.pdf)
+[![Resume](https://img.shields.io/badge/RESUME-%23000000?style=for-the-badge)](https://github.com/AbigailCastroFigueroa/AbigailCastroFigueroa/blob/06aa34e65df38c3a0290ade5451288425d05daf2/Abigail%20Castro%20-%20Software%20Engineer%202023.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/acfigueroa/)
 
 ## Languages and tools:
